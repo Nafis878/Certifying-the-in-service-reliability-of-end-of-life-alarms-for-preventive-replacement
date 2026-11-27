@@ -1,0 +1,10 @@
+scania 0 frozen 9c0004f9c60862b03ec1ba341209d1bda1278f941e87d10ea878bca71c675898 {'cap': 60, 'span': 1, 'k': 1, 'shift': -5, 'H': 20}
+scania 0 scored 621764
+seed 0 scored 08:33:36
+scania 1 frozen 21e0c140790f2d65ef6ad8fb06861eb9396cb44a34ee8fb0bdf9e0c400e1537f {'cap': 90, 'span': 1, 'k': 3, 'shift': -5, 'H': 20}
+scania 1 scored 621764
+seed 1 finished 08:37:21
+scania 2 frozen 8f4bbec043ae44871aeb310312f0b0ec5eb8f71a3dfb9d58f5781fe2a9d34fd7 {'cap': 60, 'span': 1, 'k': 1, 'shift': -5, 'H': 20}
+scania 2 scored 621764
+seed 2 finished 08:40:59
+ALLDONE

@@ -1,0 +1,18 @@
+{
+  "title": "Code, protocols and per-unit results: Certifying the in-service reliability of end-of-life alarms for preventive replacement",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Anonymous"
+    }
+  ],
+  "license": "MIT",
+  "description": "Analysis code, pre-specified protocols with SHA-256 hash lists, pinned environments and per-unit result tables for the article submitted to Reliability Engineering & System Safety. Raw data are public and not redistributed (see README).",
+  "keywords": [
+    "prognostics",
+    "predictive maintenance",
+    "end-of-life alarm",
+    "tolerance limit",
+    "reliability"
+  ]
+}

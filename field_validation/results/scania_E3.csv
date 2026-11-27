@@ -1,0 +1,12 @@
+ds,seed,design,m,meets_299,T,q_m,certified_max_lead,test_exceed_share,viol,E_test_ipcw,viol_rate,resplits,T_R,q_R,miss_upper,F_total_bound
+scania,0,primary,48.0,False,4.038312317746813,0.06050340934889431,4.0,0.0,False,0.0,,,,,,
+scania,0,coverage_unit,,,,,,,,,0.087,1000.0,,,,
+scania,0,coverage_cluster,,,,,,,,,0.0,1000.0,,,,
+scania,0,total_bound_failed_only[NEEDS DERIVATION under censoring],,,,,,,,,,,5.400000000000006,0.5271291954984121,0.997901787780427,1.5250309832788391
+scania,1,primary,0.0,False,,,-1.0,0.0,False,,,,,,,
+scania,1,coverage_unit,,,,,,,,,0.0,1000.0,,,,
+scania,1,coverage_cluster,,,,,,,,,0.0,1000.0,,,,
+scania,2,primary,11.0,False,11.39072262940836,0.2384041903808527,11.0,0.2857142857142857,True,0.0,,,,,,
+scania,2,coverage_unit,,,,,,,,,0.099,1000.0,,,,
+scania,2,coverage_cluster,,,,,,,,,0.0,1000.0,,,,
+scania,2,total_bound_failed_only[NEEDS DERIVATION under censoring],,,,,,,,,,,58.60000000000002,0.95,0.9999228702011408,1.9499228702011409
