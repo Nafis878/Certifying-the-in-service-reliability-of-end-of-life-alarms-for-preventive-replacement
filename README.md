@@ -29,6 +29,7 @@ in parallel.
 | E2 fits and Table 7 | (fits in `run_fits.sh`) `python e2_analyze.py` |
 | E3–E6 (Section 4.4, Supplementary S20) | `python e3_e6_analyze.py` (needs only `study/results/multi`) |
 | Total-failure certificate (Proposition 3) and the α–λ acceptance rule (Section 4.3–4.4, Supplementary S22; derived/exploratory, added after review) | `python total_cert.py` (needs `study/results`, `new_analyses/results/e1_records_*` and `field_validation/results`; lifelines for the fleet part) |
+| Revision round 2 (derived, not pre-specified): fixed-sequence certificate (Proposition 3), optimality simulation (Proposition 4), lead-to-warning-ratio and window table (Table 6), censoring bounds on the fleet data (Proposition 5), cross-fitted certificates (Proposition S23.1) and the population checks of Supplementary Table S23.2 | `python r8_analyses.py` (writes `new_analyses/results/R8_*.csv`) |
 
 The study's original tables and figures are produced by the `reproduce_*.sh` scripts in `study/code`.
 Seeds: outer split 2026; E1 training 9100+s, inner 9200+s, calibration/test 9300, re-splits 9400+r; E2 bootstrap 9500;
